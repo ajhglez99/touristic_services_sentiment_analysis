@@ -1,0 +1,12 @@
+# misc
+*.[oa]
+*~
+*.xlsx
+*.csv
+*.log
+
+# web browser drivers
+# drivers/
+
+# IDE cache
+.vscode/
